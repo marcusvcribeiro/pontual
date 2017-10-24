@@ -1,0 +1,25 @@
+{
+  "name": "ibraef",
+  "description": "inscricao do site da ibraef",
+  "main": "arquivos/bower",
+  "keywords": [
+    "ibraef"
+  ],
+  "authors": [
+    "Daniel Vieira da silva"
+  ],
+  "license": "MIT",
+  "homepage": "http://twobirds.com.br/ibraef/site/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.37"
+  }
+}
